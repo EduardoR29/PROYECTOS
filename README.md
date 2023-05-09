@@ -1,4 +1,4 @@
-# PROYECTOS
+# Mi Portafolio
 
 Soy Eduardo Ramón Cepeda, tengo 19 años y soy estudiante de 6to semestre de la carrera de Ing. en Tecnologias Computacionales.
 Poseo conocimientos sobre programación en front-end, ciberseguridad, analítica de datos, redes de datos, aplicaciones móbiles.

@@ -26,3 +26,4 @@ Participé con el rol de programador de front-end y encargado de seguridad.
 El proyecto manejaba al socioformador *Comisión del Hermano Mayor* en el que se pedía una mejora del sistema de la página que poseían actualmente e inclusive rediseñarlo.
 En este proyecto se hizo uso de HTML, CSS, Azure.
 Yo participe con el rol de programador Full-Stack 
+![Pagina](./img/comision.png)

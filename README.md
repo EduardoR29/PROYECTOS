@@ -24,7 +24,7 @@ Este proyecto fue una aplicación relacizada junto con el socioformador *Cárita
 Para este proyecto se hizo uso de swift, MySQL Server; siendo esta una apicación de iOS.
 Participé con el rol de programador de front-end y encargado de seguridad.
 
-   ![Inicio App](./img/app.png)               ![Log In App](./img/volApp.png)
+   ![Inicio App](./img/app.png)      
 
 
 ## Comisión del Hermano Mayor

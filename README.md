@@ -18,7 +18,8 @@ En este caso, se ve como un router, con el nombre de VPN y se debe a que en ese 
 Este proyecto fue una aplicación relacizada junto con el socioformador *Cáritas* en la que se pedía una aplicación que permitiese un registro más efectivo y manejo de las horas de servicio de los vluntarios.
 Para este proyecto se hizo uso de swift, MySQL Server; siendo esta una apicación de iOS.
 Participé con el rol de programador de front-end y encargado de seguridad.
-## Imagen
+
+![Inicio App](./img/inicApp.png) , ![Log In App](./img/volApp.png)
 
 
 ## Comisión del Hermano Mayor

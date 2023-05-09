@@ -9,7 +9,7 @@ En este apartado se mencionarán algunos proyectos, ya sea personales o escolare
 En este caso el objectivo de este proyecto era crear una red para un emprendimiento chico/mediano desde 0, tomando en cuenta los equipos, tipos y la forma en que se manejaría la red.
 Para el proyecto hicimos una simulación en la que utilizamos Packet Tracer.
 Participe como encargado de seguridad de los equipos y establecimiento de la distribución de la red.
-## imagen
+![Topología Física](./img/tracer.png)
 En este caso, se ve como un router, con el nombre de VPN y se debe a que en ese momento no se tenían los conocimientos para simularlo, sin embargo, se estableció una conexión de una manera similar.
 
 
